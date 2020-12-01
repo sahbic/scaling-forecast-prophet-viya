@@ -9,7 +9,7 @@ This repository contains the code used in the blog post [Scaling Time Series For
 
 - [M5 Competition](https://www.kaggle.com/c/m5-forecasting-accuracy) data on Kaggle.
 
-## Requirememnts
+## Requirements
 
 - SAS Viya Access
 
