@@ -3,7 +3,7 @@
 ![EXTLANG](img/extlang_schema.png)
 
 
-This repository contains the code used in the blog post [Scaling Time Series Forecasting with Facebook Prophet and SAS Viya](https://pyviya.com/scalable-time-series/)
+This repository contains the code used in the blog post [Scaling Time Series Forecasting with Facebook Prophet and SAS Viya](https://pyviya.com/scale-forecast-prophet-viya/)
 
 ## Data
 
